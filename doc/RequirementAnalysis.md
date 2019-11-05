@@ -70,7 +70,7 @@
 
 ### 系统架构
 
-![](团队项目架构图.jpg)
+![](ProjectStructure.jpg)
 
 ## 运行需求
 
